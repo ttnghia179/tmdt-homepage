@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+.footer {
+    background-color: #1B212C;
+    color: #FFF;
+    padding: 20px ;
+}
+
+.shop-inline {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.social-network {
+    display: inline-block;
+    text-align: center;
+}
+
+.align-cont {
+    text-align: left;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.cp-right {
+    text-align: right;
+}
+
+.contact-div {
+    width: 300px;
+    text-align: left;
+}
+
+.color-nav {
+    background-color: #1B212C;
+    
+}
+
+.other-icon {
+    margin-left: 30px;
+}
+
+.menu-item {
+    margin: 0 20px;
+    font-family: 'Fredoka One', cursive;
+    font-size: large;
+}
+
+h2, h4 {
+    font-family: "Inconsolata";
+    font-weight: bold;
+}
+
+.round-border {
+    border-radius: 30px;
+}
+
+.shoe-title, .shoe-price {
+    font-family: 'Fredoka One', cursive;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.add-btn {
+    color: #FB4B29;
+}
+
+.detail-btn {
+    background-color: #FB4B29;
+    font-family: 'Fredoka One', cursive;
+    float: right;
+    border-radius: 10px;
+}
+
+
+.nopaddingleft {
+    padding: 5px 0 0 0;
+    
+}
+
+
+
